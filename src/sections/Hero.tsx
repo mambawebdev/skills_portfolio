@@ -74,7 +74,7 @@ export const HeroSection = () => {
                       className="inline-flex items-center gap-2 border border-white bg-white text-gray-900 h-12 px-6 rounded-xl"
                     >
                       <span>🙋‍♂️</span>
-                      <span className='font-semibold'>Let's Connect</span>
+                      <span className='font-semibold'>Let&apos;s Connect</span>
                     </a>
                     
                   </button>
@@ -84,4 +84,3 @@ export const HeroSection = () => {
 };
 
 
-/* https://www.youtube.com/watch?v=ELssXP1sTC8&t=273s 1:17 */
